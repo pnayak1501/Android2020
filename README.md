@@ -2,5 +2,5 @@
 Android projects bulit for learning Android, developed using JAVA.
 
 # Screenshots
-![](screenshots/1.png)
-![](screenshots/2.png)
+![](screenshots/1.jpeg)
+![](screenshots/2.jpeg)
